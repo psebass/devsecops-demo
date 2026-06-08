@@ -22,3 +22,6 @@ reports/
 # Coverage
 .coverage
 htmlcov/
+
+# Others
+guide.txt
