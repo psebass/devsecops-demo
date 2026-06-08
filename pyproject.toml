@@ -1,0 +1,15 @@
+[project]
+name = "devsecops-demo"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "bandit>=1.9.4",
+    "flask>=3.1.3",
+    "pip-audit>=2.10.0",
+    "pytest>=9.0.3",
+]
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
