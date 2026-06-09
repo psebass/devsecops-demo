@@ -25,3 +25,5 @@ htmlcov/
 
 # Others
 guide.txt
+conver*.py
+convertidor_*.py
